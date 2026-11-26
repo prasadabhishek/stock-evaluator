@@ -11,3 +11,6 @@ npx skills add prasadabhishek/stock-evaluator
 ## License
 
 MIT
+
+---
+Built by [Abhishek Prasad](https://abhishekprasad.fyi)
